@@ -1,0 +1,12 @@
+name: hw02
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - ipykernel
+  - numpy==1.23
+  - h5py==3.7
+  - scipy==1.8
+  - matplotlib==3.5
+prefix: /home/jovyan/envs/hw02
